@@ -1,4 +1,4 @@
-# Calculator
+# Christmas Lights
 * Project based on [Florinpop17 app-ideas](https://github.com/florinpop17/app-ideas)
 
 A colorful flasher developed with React, with change color function and other tools like changing intensity.
